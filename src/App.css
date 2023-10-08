@@ -1,0 +1,52 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.main{
+    width: 60vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    background-color: #133041;
+    margin: auto;
+    margin-top: 50px;
+    padding: 1vw;
+    border: 1px solid rgb(185, 185, 185);
+    border-radius: 1vw;
+}
+.hero{
+    margin-bottom: 20px;
+    font-size: 3vw;
+}
+.password{
+height: 2.5vw;
+width: 30vw;
+font-size: 20px;
+font-weight: 500;
+padding: 5px;
+color: rgb(225, 158, 0);
+border: none;
+border-top-left-radius: 0.5vw;
+border-bottom-left-radius: 0.5vw;
+}
+.copy{
+height: 2.5vw;
+width: 5vw;
+color: aliceblue;
+font-size: 20px;
+font-weight: 500;
+background-color: blue;
+border: none;
+border-top-right-radius: 0.5vw;
+border-bottom-right-radius: 0.5vw;
+cursor: pointer;
+}
+.dependancies{
+    display: flex;
+    margin-top: 10px;
+    padding: 5px;
+    font-size: 1.5vw;
+    color: rgb(225, 158, 0);
+}

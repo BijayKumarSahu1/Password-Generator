@@ -1,1 +1,1 @@
-Password Generator project with # React + Vite using Hooks usestate,useCallback,useEffect,useRef to manage the state, optimizes performance by memoizing functions and synchronize the task with dependencies.  
+Password Generator project with # React + Vite using Hooks usestate,useCallback,useEffect,useRef to manage the state, optimizes performance by memoizing functions and synchronize the task with dependencies. 
